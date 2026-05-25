@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace UPWPF.Models
+namespace WpfApp1.Models
 {
     public class LoginViewModel
     {

@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace UPWPF.Models
+namespace WpfApp1.Models
 {
     public class BookExtended
     {
